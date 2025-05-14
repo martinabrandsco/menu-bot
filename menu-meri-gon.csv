@@ -1,0 +1,122 @@
+Week of the month,Day,Time,Meal Type,Description
+1,Lunes,7:00,Desayuno,"1 taza de café, con leche (210 g); 1 ración individual de avena en copos, para el desayuno (35 g); 1 unidad grande de plátano (200 g)"
+1,Lunes,10:00,Media Mañana,"2 puñados, mano cerrada, sin cáscara de almendra, cruda (40 g)"
+1,Lunes,13:00,Comida,"Primer Plato: 250 gramos de garbanzo, en conserva; 1 unidad pequeña de pimiento rojo, crudo (150 g); 1 ración individual de lechuga (70 g); 1 unidad pequeña de zanahoria, cruda (45 g); 100 gramos de cebolla; 6 rodajas de pepino (60 g); Segundo Plato: 1 ración individual de arroz integral, crudo (150 g); Postre: 1 unidad grande de manzana (230 g)"
+1,Lunes,16:00,Merienda,"1 ración individual de calabaza, cruda (320 g); 180 gramos de ternera, redondo, filete, cocido; 1 ración individual de quinoa, cruda (80 g)"
+1,Lunes,19:00,Cena,"Primer Plato: 2 unidades medianas de huevo de gallina, clara, cruda (66 g); 2 latas pequeñas de atún, enlatado, al natural, escurrido (100 g); 2 porciones de brócoli horneado (408 g); 1 ración individual de queso fresco, tipo Burgos: envasado (50 g); Postre: 1 unidad grande de naranja (310 g)"
+1,Martes,7:00,Desayuno,"1 taza de café, con leche (210 g); 2 panecillos medianos de pan integral (120 g); 4 lonchas de pavo, fiambre (120 g); 1 unidad grande de tomate (260 g)"
+1,Martes,12:00,Comida,"Primer Plato: 150 gramos de preparado de carne picada vacuno Mercadona; 1 unidad mediana de berenjena (360 g); 1 ración individual de arroz integral, crudo (80 g); Postre: 1 unidad grande de naranja (310 g)"
+1,Martes,16:00,Merienda,"1 unidad de yogur líquido, desnatado, de fresa y frambuesa alto en proteína sin lactosa y sin azúcar añadido YOPRO (300 g)"
+1,Martes,19:00,Cena,Primer Plato: 150 gramos de filete de pechuga de pavo Mercadona; 1 ración individual de lechuga (70 g); 1 unidad grande de tomate (260 g); 1 unidad grande de cebolla (200 g); 7 unidades minis de queso mozzarella (56 g)
+1,Miércoles,7:00,Desayuno,"1 taza de café, con leche (210 g); 5 lonchas de pavo, fiambre (150 g); 1 ración individual de queso fresco, vaca, 0% MG/ES, natural (50 g)"
+1,Miércoles,10:00,Media Mañana,4 unidades de galleta salada (20 g)
+1,Miércoles,12:00,Comida,"Primer Plato: 150 gramos de salmón; 1 ración individual de lechuga (70 g); 1 unidad grande de tomate (260 g); 2 latas pequeñas de maíz, hervido, en lata (280 g); 1 unidad mediana de cebolla (140 g)"
+1,Miércoles,16:00,Merienda,1 unidad grande de plátano (200 g); 1 unidad grande de fresa (44 g); 150 gramos de naranja
+1,Miércoles,19:00,Cena,Primer Plato: 150 gramos de filete de pechuga de pavo Mercadona; 1 ración individual de lechuga (70 g); 1 unidad grande de tomate (260 g); 1 unidad grande de cebolla (200 g); 7 unidades minis de queso mozzarella (56 g)
+1,Jueves,7:00,Desayuno,"1 taza de café, con leche (210 g); 1 ración individual de avena en copos, para el desayuno (35 g)"
+1,Jueves,10:00,Media Mañana,1 panecillo mediano de pan integral (60 g); 1 cucharada sopera colmada de crema de cacahuete (20 g)
+1,Jueves,13:00,Comida,"Primer Plato: 120 gramos de pasta alimenticia, cruda; 1 unidad grande de tomate (260 g); 8 unidades minis de queso mozzarella (64 g); 2 latas pequeñas, escurrido de atún, al natural (100 g); 2 lonchas de pavo, fiambre (60 g); 1 unidad grande de huevo de gallina, entero, crudo (65 g)"
+1,Jueves,19:00,Cena,"Primer Plato: 170 gramos de lentejas; 1 unidad pequeña de patata, cruda (110 g); 2 lonchas de pavo, fiambre (60 g); Postre: 1 unidad mediana de kiwi (110 g)"
+1,Viernes,7:00,Desayuno,"1 taza de café, con leche (210 g); 1 unidad de yogur, desnatado, de vainilla alto en proteína sin azúcar añadido YOPRO (160 g); 1 ración individual de avena en copos, para el desayuno (35 g); 1 unidad grande de fresa (44 g)"
+1,Viernes,10:00,Media Mañana,3 unidades sin cáscara de nuez (15 g)
+1,Viernes,12:00,Comida,"Primer Plato: 200 gramos de merluza, cruda; 150 gramos de arroz; 1 unidad pequeña de pimiento rojo, crudo (150 g); 1 unidad pequeña de pimiento verde, crudo (80 g); Postre: 1 unidad grande de plátano (200 g)"
+1,Viernes,16:00,Merienda,"1 unidad de yogur, desnatado, de arándanos alto en proteína sin azúcar añadido YOPRO (160 g)"
+1,Sábado,7:00,Desayuno,"1 taza de café, con leche (210 g); 1 unidad de yogur, desnatado, de vainilla alto en proteína sin azúcar añadido YOPRO (160 g); 1 ración individual de avena en copos, para el desayuno (35 g); 1 unidad grande de fresa (44 g)"
+1,Sábado,19:00,Cena,Primer Plato: 150 gramos de filete de pechuga de pavo Mercadona; 1 ración individual de lechuga (70 g); 1 unidad grande de tomate (260 g); 1 unidad grande de cebolla (200 g); 7 unidades minis de queso mozzarella (56 g)
+1,Domingo,7:00,Desayuno,"1 taza de café, con leche (210 g); 1 panecillo mediano de pan integral (60 g); 5 lonchas de pavo, fiambre (150 g)"
+1,Domingo,10:00,Media Mañana,3 unidades sin cáscara de nuez (15 g)
+1,Domingo,12:00,Comida,"Primer Plato: 150 gramos de filete de pechuga de pollo corte fino Mercadona; 1 ración individual de arroz integral, crudo (80 g); Postre: 1 unidad grande de plátano (200 g)"
+1,Domingo,16:00,Merienda,"1 unidad de yogur, desnatado, de arándanos alto en proteína sin azúcar añadido YOPRO (160 g)"
+2,Lunes,7:00,Desayuno,"1 taza de café, con leche (210 g); 2 unidades medianas de huevo de gallina, clara, cruda (66 g); 1 unidad mediana de kiwi (110 g)"
+2,Lunes,10:00,Media Mañana,"1 puñado, mano cerrada, sin cáscara de almendra, cruda (20 g)"
+2,Lunes,12:00,Comida,"Primer Plato: 1 porción de contra Muslos de Pavo en salsa (578 g); 1 panecillo mediano de pan integral (60 g); Postre: 1 unidad comercial de yogur, desnatado, natural (125 g)"
+2,Lunes,16:00,Merienda,8 unidades grandes de fresa (352 g)
+2,Lunes,19:00,Cena,"Primer Plato: 210 gramos de merluza, cruda; 200 gramos de judías verdes, cruda (660 g); Postre: 1 unidad grande de manzana (230 g)"
+2,Martes,7:00,Desayuno,"1 taza de café, con leche (210 g); 1 ración individual de avena en copos, para el desayuno (35 g); 1 unidad grande de plátano (200 g)"
+2,Martes,10:00,Media Mañana,1 unidad de galleta salada (4 g)
+2,Martes,12:00,Comida,"Primer Plato: 1 porción de ensalada lentejas (400 g); 1 ración individual de queso fresco (50 g); 1 ración individual de arroz integral, crudo (80 g)"
+2,Martes,16:00,Merienda,"1 unidad de yogur líquido, desnatado, de fresa y frambuesa alto en proteína sin lactosa y sin azúcar añadido YOPRO (300 g)"
+2,Martes,19:00,Cena,"Primer Plato: 1 porción individual de ternera, redondo, filete, cocido (175 g); 2 raciones individuales de lechuga (140 g); 1 unidad grande de tomate (260 g); 1 cucharada sopera de maíz, hervido, en lata (20 g); 1 unidad grande de cebolla (200 g)"
+2,Miércoles,7:00,Desayuno,"1 taza de café, con leche (210 g); 2 lonchas de pavo, fiambre (60 g); 1 unidad mediana de tomate (140 g)"
+2,Miércoles,10:00,Media Mañana,1 tajada de sandía (400 g)
+2,Miércoles,12:00,Comida,"Primer Plato: 120 gramos de pasta alimenticia, cruda; 1 porción de bolognesa (259 g); Postre: 1 unidad de yogur, desnatado, de arándanos alto en proteína sin azúcar añadido YOPRO (160 g)"
+2,Miércoles,19:00,Cena,"Primer Plato: 3 unidades grandes de huevo de gallina, clara, cruda (129 g); 2 latas redondas grandes de atún, enlatado, al natural, escurrido (130 g); 3 raciones individuales de espinaca, cruda (270 g)"
+2,Jueves,7:00,Desayuno,"1 taza de café, con leche (210 g); 1 panecillo mediano de pan integral (60 g); 4 lonchas de pavo, fiambre, bajo en grasa (120 g)"
+2,Jueves,12:00,Comida,"Primer Plato: 2 filetes medianos de pollo, pechuga, plancha (258 g); 1 ración individual de quinoa, cruda (80 g); 1 unidad pequeña de pimiento rojo, crudo (150 g); 1 unidad pequeña de pimiento verde, crudo (80 g)"
+2,Jueves,16:00,Merienda,7 unidades grandes de fresa (308 g)
+2,Jueves,19:00,Cena,"Primer Plato: 3 Vichyssoise de vichyssoise (850 g); 1 ración individual de judías verdes, en conserva (225 g); Postre: 1 unidad de yogur, desnatado, de arándanos alto en proteína sin azúcar añadido YOPRO (160 g)"
+2,Viernes,7:00,Desayuno,"1 taza de café, con leche (210 g); 1 ración individual de avena en copos (60 g); 4 lonchas de pavo, fiambre, bajo en grasa (120 g)"
+2,Viernes,12:00,Comida,"Primer Plato: 200 gramos de merluza, cruda; 150 gramos de arroz; 1 unidad pequeña de pimiento rojo, crudo (150 g); 1 unidad pequeña de pimiento verde, crudo (80 g); Postre: 1 unidad grande de plátano (200 g)"
+2,Viernes,16:00,Merienda,"1 unidad de yogur, desnatado, de arándanos alto en proteína sin azúcar añadido YOPRO (160 g)"
+2,Sábado,7:00,Desayuno,"1 taza de café, con leche (210 g); 1 panecillo mediano de pan integral (60 g); 5 lonchas de pavo, fiambre (150 g)"
+2,Sábado,10:00,Media Mañana,3 unidades sin cáscara de nuez (15 g)
+2,Sábado,12:00,Comida,"Primer Plato: 150 gramos de filete de pechuga de pollo corte fino Mercadona; 1 ración individual de arroz integral, crudo (80 g); Postre: 1 unidad grande de plátano (200 g)"
+2,Sábado,16:00,Merienda,"1 unidad de yogur, desnatado, de arándanos alto en proteína sin azúcar añadido YOPRO (160 g)"
+2,Domingo,7:00,Desayuno,"1 taza de café, con leche (210 g); 2 lonchas de pavo, fiambre (60 g); 1 unidad grande de tomate (260 g)"
+2,Domingo,10:00,Media Mañana,3 unidades sin cáscara de nuez (15 g)
+2,Domingo,12:00,Comida,"Primer Plato: 150 gramos de filete de pechuga de pollo corte fino Mercadona; 1 ración individual de arroz integral, crudo (80 g); Postre: 1 unidad grande de plátano (200 g)"
+2,Domingo,16:00,Merienda,"1 unidad de yogur, desnatado, de arándanos alto en proteína sin azúcar añadido YOPRO (160 g)"
+3,Lunes,7:00,Desayuno,"1 taza de café, con leche (210 g); 1 unidad comercial de yogur, desnatado, natural (125 g); 1 porción de Afito Frutos Rojos (91 g)"
+3,Lunes,10:00,Media Mañana,"1 panecillo mediano de pan integral (90 g); 4 lonchas de pavo, fiambre, bajo en grasa (120 g)"
+3,Lunes,12:00,Comida,"Primer Plato: 1 ración individual de garbanzo, en conserva (215 g); 200 gramos de espinaca, cruda; 1 unidad grande de huevo de gallina, entero, crudo (65 g)"
+3,Lunes,16:00,Merienda,8 unidades grandes de fresa (352 g)
+3,Lunes,19:00,Cena,"Primer Plato: 200 gramos de ternera, redondo, filete, cocido; 2 porciones de batata al horno (195 g); 1 porción de brócoli horneado (204 g)"
+3,Martes,7:00,Desayuno,"1 taza de café, con leche (210 g); 1 unidad mediana de huevo de gallina, clara, cruda (33 g); 1 loncha de jamón cocido, extra (30 g)"
+3,Martes,10:00,Media Mañana,1 unidad grande de plátano (200 g)
+3,Martes,12:00,Comida,"Primer Plato: 180 gramos de salmón; 120 gramos de pasta alimenticia, integral, cruda; 1 guarnición de col de Bruselas, cruda (160 g)"
+3,Martes,16:00,Merienda,"1 unidad de yogur líquido, desnatado, de fresa y frambuesa alto en proteína sin lactosa y sin azúcar añadido YOPRO (300 g)"
+3,Martes,19:00,Cena,"Primer Plato: 150 gramos de filete de pechuga de pollo; 1 ración individual de quinoa, cruda (80 g); 1 ración individual de lechuga (70 g); 1 unidad grande de tomate (260 g); 1 unidad grande de cebolla (200 g); 1 cucharada sopera de maíz, hervido, en lata (20 g)"
+3,Miércoles,7:00,Desayuno,"1 taza de café, con leche (210 g); 4 lonchas de pavo, fiambre (120 g); 1 unidad mediana de tomate (140 g)"
+3,Miércoles,10:00,Media Mañana,1 tajada mediana de sandía (400 g)
+3,Miércoles,12:00,Comida,"Primer Plato: 150 gramos de preparado de carne picada vacuno Mercadona; 1 unidad mediana de berenjena (360 g); 1 unidad grande de patata, cruda (370 g)"
+3,Miércoles,19:00,Cena,"Primer Plato: 250 gramos de gazpacho; 3 unidades grandes de huevo de gallina, clara, cruda (129 g); 2 latas redondas grandes de atún, enlatado, al natural, escurrido (130 g)"
+3,Jueves,7:00,Desayuno,"1 taza de café, con leche (210 g); 60 gramos de aguacate; 4 lonchas de pavo, fiambre, bajo en grasa (120 g)"
+3,Jueves,10:00,Media Mañana,7 unidades grandes de fresa (308 g)
+3,Jueves,12:00,Comida,"Primer Plata: 2 filetes medianos de pollo, pechuga, plancha (258 g); 1 ración individual de quinoa, cruda (80 g); 1 unidad pequeña de pimiento rojo, crudo (150 g); 1 unidad pequeña de pimiento verde, crudo (80 g)"
+3,Jueves,16:00,Merienda,1 unidad grande de manzana (230 g)
+3,Jueves,19:00,Cena,"Primer Plato: 1 ración individual de calabaza, cruda (320 g); 1 ración individual de alcachofa, cruda (130 g); 1 lata pequeña de guisantes, en conserva (120 g); 2 unidades medianas de patata, cruda (240 g); Postre: 1 unidad de yogur, desnatado, de arándanos alto en proteína sin azúcar añadido YOPRO (160 g)"
+3,Viernes,7:00,Desayuno,"1 taza de café, con leche (210 g); 4 lonchas de pavo, fiambre, bajo en grasa (120 g); 1 ración individual de avena en copos (60 g)"
+3,Viernes,12:00,Comida,"Primer Plato: 180 gramos de pasta alimenticia, integral, cruda; 1 porción de verduras asadas (297 g); 1 unidad grande de huevo de gallina, entero, crudo (65 g)"
+3,Viernes,16:00,Merienda,"1 unidad de yogur, desnatado, de arándanos alto en proteína sin azúcar añadido YOPRO (160 g)"
+3,Viernes,19:00,Cena,"Primer Plato: 150 gramos de filete de pechuga de pollo; 1 ración individual de lechuga (70 g); 1 unidad grande de tomate (260 g); 1 unidad grande de cebolla (200 g); 1 cucharada sopera de maíz, hervido, en lata (20 g); Postre: 1 unidad mediana de kiwi (110 g)"
+3,Sábado,7:00,Desayuno,"1 taza de café, con leche (210 g); 1 panecillo mediano de pan integral (60 g); 5 lonchas de pavo, fiambre (150 g)"
+3,Sábado,10:00,Media Mañana,3 unidades sin cáscara de nuez (15 g)
+3,Sábado,12:00,Comida,"Primer Plato: 150 gramos de filete de pechuga de pollo corte fino Mercadona; 1 ración individual de arroz integral, crudo (80 g); Postre: 1 unidad grande de plátano (200 g)"
+3,Sábado,16:00,Merienda,"1 unidad de yogur, desnatado, de arándanos alto en proteína sin azúcar añadido YOPRO (160 g)"
+3,Domingo,7:00,Desayuno,"1 taza de café, con leche (210 g); 2 lonchas de pavo, fiambre (60 g); 1 unidad grande de tomate (260 g)"
+3,Domingo,10:00,Media Mañana,3 unidades sin cáscara de nuez (15 g)
+3,Domingo,12:00,Comida,"Primer Plato: 150 gramos de filete de pechuga de pollo corte fino Mercadona; 1 ración individual de arroz integral, crudo (80 g); Postre: 1 unidad grande de plátano (200 g)"
+3,Domingo,16:00,Merienda,"1 unidad de yogur, desnatado, de arándanos alto en proteína sin azúcar añadido YOPRO (160 g)"
+4,Lunes,7:00,Desayuno,"1 taza de café, con leche (210 g); 2 unidades grandes de huevo de gallina, clara, cruda (86 g); 1 loncha de jamón cocido, extra (30 g); 1 unidad mediana de kiwi (110 g)"
+4,Lunes,10:00,Media Mañana,"1 puñado, mano cerrada, sin cáscara de almendra, cruda (20 g)"
+4,Lunes,12:00,Comida,"Primer Plato: 1 unidad de pollo, muslo, sin piel, crudo (720 g); 1 porción de verduras asadas (297 g); 1 panecillo mediano de pan integral (60 g); Postre: 1 unidad de yogur, desnatado, de arándanos alto en proteínas sin azúcar añadido YOPRO (160 g)"
+4,Lunes,16:00,Merienda,8 unidades grandes de fresa (352 g)
+4,Lunes,19:00,Cena,"Primer Plato: 200 gramos de merluza, cruda; 2 raciones individuales de judía verde, cruda (490 g); 3 unidades medianas de patata, cruda (660 g)"
+4,Martes,7:00,Desayuno,"1 taza de café, con leche (210 g); 1 panecillo mediano de pan integral (60 g); 2 lonchas de pavo, fiambre, bajo en grasa (60 g); 1 ración individual de queso fresco, tipo Burgos: envasado (50 g)"
+4,Martes,10:00,Media Mañana,1 unidad grande de plátano (200 g)
+4,Martes,12:00,Comida,"Primer Plato: 150 gramos de preparado de carne picada vacuno Mercadona; 1 unidad pequeña de zanahoria, cruda (45 g); 1 unidad mediana de calabaza (320 g); 1 ración individual de arroz integral, crudo (80 g)"
+4,Martes,16:00,Merienda,"1 unidad de yogur líquido, desnatado, de fresa y frambuesa alto en proteína sin lactosa y sin azúcar añadido YOPRO (300 g)"
+4,Martes,19:00,Cena,"Primer Plato: 200 gramos de cerdo, lomo, crudo; 2 porciones de batata al horno (195 g); 1 porción de brócoli horneado (204 g)"
+4,Miércoles,7:00,Desayuno,"1 taza de café, con leche (210 g); 4 lonchas de pavo, fiambre (120 g); 1 unidad mediana de tomate (140 g)"
+4,Miércoles,10:00,Media Mañana,"1 puñado, mano cerrada, sin cáscara de almendra, cruda (20 g)"
+4,Miércoles,12:00,Comida,"Primer Plato: 2 filetes de pavo, pechuga, sin piel, crudo (350 g); 1 ración individual de pasta alimenticia, cruda (80 g); Segundo Plato: 1 ración individual de lechuga (70 g); 1 unidad grande de cebolla (200 g); 1 unidad grande de pepino (400 g); Postre: 8 unidades minis de queso mozzarella (64 g)"
+4,Miércoles,19:00,Cena,"Primer Plato: 100 gramos de gazpacho; Segundo Plato: 1 ración individual de garbanzo, en conserva (215 g); 1 guarnición de espinaca, cruda (50 g); 1 unidad grande de huevo de gallina, clara, cruda (45 g)"
+4,Jueves,7:00,Desayuno,"1 taza de café, con leche (210 g); 1 panecillo mediano de pan integral (60 g); 4 lonchas de jamón cocido, extra (120 g)"
+4,Jueves,10:00,Media Mañana,2 unidades de galleta salada (8 g)
+4,Jueves,12:00,Comida,"Primer Plato: 200 gramos de bacalao, fresco, crudo; 200 gramos de patata, cruda; Segundo Plato: 1 ración individual de lentejas (148 g); 1 ración individual de lechuga (70 g); 1 unidad grande de tomate (260 g); 1 cucharada sopera de maíz, hervido, en lata (20 g)"
+4,Jueves,16:00,Merienda,8 unidades grandes de fresa (352 g)
+4,Jueves,19:00,Cena,"Primer Plato: 100 gramos de gazpacho; 3 unidades grandes de huevo de gallina, clara, cruda (129 g); 1 panecillo mediano de pan integral (60 g); Postre: 1 unidad de yogur, desnatado, de arándanos alto en proteínas sin azúcar añadido YOPRO (160 g)"
+4,Viernes,7:00,Desayuno,"1 taza de café, con leche (210 g); 1 ración individual de avena en copos (60 g); 1 loncha de jamón cocido, extra (30 g)"
+4,Viernes,10:00,Media Mañana,1 unidad grande de plátano (200 g)
+4,Viernes,12:00,Comida,"Primer Plato: 150 gramos de filete de pechuga de pollo; 1 ración individual de arroz integral, crudo (80 g); Postre: 1 unidad grande de manzana (230 g)"
+4,Viernes,16:00,Merienda,7 unidades grandes de fresa (308 g)
+4,Viernes,19:00,Cena,"Primer Plato: 150 gramos de salmón; 1 ración individual de alcachofa, cruda (130 g); 1 lata pequeña de guisantes, en conserva (120 g); 1 unidad grande de patata, cruda (370 g); Postre: 1 unidad de yogur, desnatado, de arándanos alto en proteínas sin azúcar añadido YOPRO (160 g)"
+4,Sábado,7:00,Desayuno,"1 taza de café, con leche (210 g); 1 panecillo mediano de pan integral (60 g); 4 lonchas de pavo, fiambre, bajo en grasa (120 g)"
+4,Sábado,10:00,Media Mañana,3 unidades sin cáscara de nuez (15 g)
+4,Sábado,12:00,Comida,"Primer Plato: 180 gramos de pasta alimenticia, integral, cruda; 1 porción de verduras asadas (297 g); 1 unidad grande de huevo de gallina, entero, crudo (65 g)"
+4,Sábado,16:00,Merienda,1 unidad mediana de manzana (180 g)
+4,Sábado,19:00,Cena,"Primer Plato: 200 gramos de cerdo, lomo, crudo; 2 porciones de batata al horno (195 g); 1 porción de brócoli horneado (204 g)"
+4,Domingo,7:00,Desayuno,"1 taza de café, con leche (210 g); 1 loncha de jamón cocido, extra (30 g); 1 unidad grande de tomate (260 g)"
+4,Domingo,10:00,Media Mañana,3 unidades sin cáscara de nuez (15 g)
+4,Domingo,12:00,Comida,"Primer Plato: 150 gramos de filete de pechuga de pollo corte fino Mercadona; 1 ración individual de arroz integral, crudo (80 g); Postre: 1 unidad grande de plátano (200 g)"
+4,Domingo,16:00,Merienda,"1 unidad de yogur, desnatado, de arándanos alto en proteínas sin azúcar añadido YOPRO (160 g)"

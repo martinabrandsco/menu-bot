@@ -1,0 +1,31 @@
+name: Daily Menu Bot
+
+on:
+  schedule:
+    # Runs at 7 AM Madrid time (UTC+1/UTC+2)
+    - cron: '0 5 * * *'  # 5 AM UTC = 7 AM Madrid time (winter)
+    - cron: '0 6 * * *'  # 6 AM UTC = 7 AM Madrid time (summer)
+  workflow_dispatch:  # Allows manual triggering
+
+jobs:
+  send-menu:
+    runs-on: ubuntu-latest
+    
+    steps:
+    - uses: actions/checkout@v3
+    
+    - name: Set up Python
+      uses: actions/setup-python@v4
+      with:
+        python-version: '3.x'
+    
+    - name: Install dependencies
+      run: |
+        python -m pip install --upgrade pip
+        pip install -r requirements.txt
+    
+    - name: Run menu bot
+      env:
+        TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+        TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+      run: python menu_bot.py 
